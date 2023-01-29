@@ -1,4 +1,4 @@
 #игнорировать все файлы
-SEM_2/
+task/
 #отобразить файлы Programs.cs
 !Program.cs
